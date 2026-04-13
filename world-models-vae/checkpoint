@@ -1,0 +1,2 @@
+model_checkpoint_path: "mdn_rnn_weights"
+all_model_checkpoint_paths: "mdn_rnn_weights"
